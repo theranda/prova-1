@@ -1,0 +1,614 @@
+#EXTM3U 
+#EXTINF:-1,by tutorial-iptv-xbmc.blogspot.com
+
+sky sport 1
+http://4.31.30.145:9141
+
+sky sport 2
+http://4.31.30.145:9142
+
+sky sport 3
+http://4.31.30.145:9140
+
+sky sport 5
+http://4.31.30.145:9134
+
+bein
+http://4.31.30.145:9128
+
+bein 1
+http://4.31.30.145:9135
+
+bein 2
+http://4.31.30.145:9133
+
+bein 3
+http://4.31.30.145:9139
+
+bein 4
+http://4.31.30.145:9131
+
+Magic
+http://37.48.118.32/live/magic.stream/master.m3u8
+
+Nick Toons
+http://37.48.118.32/live/nicktoons.stream/master.m3u8
+
+Disney Junior
+http://37.48.118.32/live/disneyjr.stream/master.m3u8
+
+Discovery History
+http://37.48.118.32/live/discoveryh.stream/master.m3u8
+
+Channel4
+http://37.48.118.32/live/c4.stream/master.m3u8
+
+Channel5
+http://37.48.118.32/live/five.stream/master.m3u8
+
+MTV Music
+http://37.48.118.32/live/mtvmusic.stream/master.m3u8
+
+MTV Hits
+http://37.48.118.32/live/mtvhits.stream/master.m3u8
+
+MTV Classic
+http://37.48.118.32/live/mtvclassic.stream/master.m3u8
+
+Dave
+http://37.48.118.32/live/dave.stream/master.m3u8
+
+#EXTM3U#EXTINF:-1,Top Channel
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/274.ts
+
+#EXTINF:-1,Top News
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/252.ts
+
+#EXTINF:-1,Klan
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/269.ts
+
+#EXTINF:-1,Klan SD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/261.ts
+
+#EXTINF:-1,Vizion Plus
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/365.ts
+
+#EXTINF:-1,Agon Channel
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/254.ts
+
+#EXTINF:-1,news 24
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/250.ts
+
+#EXTINF:-1,Ora News
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/238.ts
+
+#EXTINF:-1,A1 Report
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/239.ts
+
+#EXTINF:-1,Abc News
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/276.ts
+
+#EXTINF:-1,TVSH
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/234.ts
+
+#EXTINF:-1,AS
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/237.ts
+
+#EXTINF:-1,Alsat M
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/233.ts
+
+#EXTINF:-1,Klan Kosova
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/277.ts
+
+#EXTINF:-1,Sot 7
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/367.ts
+
+#EXTINF:-1,Star Plus
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/231.ts
+
+#EXTINF:-1,Supersky
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/222.ts
+
+#EXTINF:-1,1CHANNEL
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/232.ts
+
+#EXTINF:-1,Tv2 Shqip
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/221.ts
+
+#EXTINF:-1,Tv Rozafa
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/227.ts
+
+#EXTINF:-1,3 Plus
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/275.ts
+
+#EXTINF:-1,Ballkan Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/90.ts
+
+#EXTINF:-1,Koplik Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/230.ts
+
+#EXTINF:-1,MKTV 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/225.ts
+
+#EXTINF:-1,RTK
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/228.ts
+
+#EXTINF:-1,Rrokum Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/223.ts
+
+#EXTINF:-1,Era Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/220.ts
+
+#EXTINF:-1,Tv Koha Tetove
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/229.ts
+
+#EXTINF:-1,My Music
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/179.ts
+
+#EXTINF:-1,Super Folk
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/224.ts
+
+#EXTINF:-1,Stv Folk
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/226.ts
+
+#EXTINF:-1,Supersonic
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/180.ts
+
+#EXTINF:-1,Mad Albania
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/181.ts
+
+#EXTINF:-1,Explorer Shkence
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/219.ts
+
+#EXTINF:-1,Explorer History
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/218.ts
+
+#EXTINF:-1,Explorer Natyre
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/217.ts
+
+#EXTINF:-1,Bang Bang
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/215.ts
+
+#EXTINF:-1,Cufo
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/214.ts
+
+#EXTINF:-1,Junior
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/213.ts
+
+#EXTINF:-1,HD Plus
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/210.ts
+
+#EXTINF:-1,Nje HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/212.ts
+
+#EXTINF:-1,Film 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/211.ts
+
+#EXTINF:-1,Fox Crime
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/190.ts
+
+#EXTINF:-1,Fox Life
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/191.ts
+
+#EXTINF:-1,T+
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/216.ts
+
+#EXTINF:-1,Digi +
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/209.ts
+
+#EXTINF:-1,Film Autor
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/278.ts
+
+#EXTINF:-1,Film Hits + 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/206.ts
+
+#EXTINF:-1,Film Hits
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/208.ts
+
+#EXTINF:-1,Film Triller
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/205.ts
+
+#EXTINF:-1,Film Drame
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/204.ts
+
+#EXTINF:-1,Film Aksion
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/199.ts
+
+#EXTINF:-1,Film Komedi
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/198.ts
+
+#EXTINF:-1,National Geographic
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/184.ts
+
+#EXTINF:-1,Discovery&Travel Channel
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/186.ts
+
+#EXTINF:-1,Eurosport
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/164.ts
+
+#EXTINF:-1,Supersport 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/178.ts
+
+#EXTINF:-1,Supersport 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/177.ts
+
+#EXTINF:-1,Supersport 3
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/176.ts
+
+#EXTINF:-1,Supersport 4
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/171.ts
+
+#EXTINF:-1,Supersport 5
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/170.ts
+
+#EXTINF:-1,Supersport 6
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/167.ts
+
+#EXTINF:-1,Supersport Kosova 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/166.ts
+
+#EXTINF:-1,Supersport Kosova 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/165.ts
+
+#EXTINF:-1,Digi Gold
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/187.ts
+
+#EXTINF:-1,BBF
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/95.ts
+
+#EXTINF:-1,Tring Tring
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/15.ts
+
+#EXTINF:-1,Tring Living
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/14.ts
+
+#EXTINF:-1,Tring Smile
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/86.ts
+
+#EXTINF:-1,Tiptv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/88.ts
+
+#EXTINF:-1,Tring World
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/87.ts
+
+#EXTINF:-1,Tring Max
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/12.ts
+
+#EXTINF:-1,Tring super
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/85.ts
+
+#EXTINF:-1,Tring Comedy
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/13.ts
+
+#EXTINF:-1,Sky Aksion
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/280.ts
+
+#EXTINF:-1,Sky Drame
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/279.ts
+
+#EXTINF:-1,Sky Komedi
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/281.ts
+
+#EXTINF:-1,Bunga Bunga
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/163.ts
+
+#EXTINF:-1,Dorcel
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/162.ts
+
+#EXTINF:-1,Rai 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/142.ts
+
+#EXTINF:-1,Rai 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/143.ts
+
+#EXTINF:-1,Rai 3 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/144.ts
+
+#EXTINF:-1,Rai Premium
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/149.ts
+
+#EXTINF:-1,Rai Sport 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/284.ts
+
+#EXTINF:-1,Rai Sport 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/285.ts
+
+#EXTINF:-1,Italia 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/147.ts
+
+#EXTINF:-1,Rete 4
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/145.ts
+
+#EXTINF:-1,Canale 5
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/146.ts
+
+#EXTINF:-1,La 7
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/83.ts
+
+#EXTINF:-1,Cielo
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/148.ts
+
+#EXTINF:-1,Premium Joi
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/301.ts
+
+#EXTINF:-1,Premium Mya
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/300.ts
+
+#EXTINF:-1,Premium Prestige
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/306.ts
+
+#EXTINF:-1,Premium Studio Universal
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/299.ts
+
+#EXTINF:-1,Premium Cinema HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/139.ts
+
+#EXTINF:-1,Premium Energy
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/307.ts
+
+#EXTINF:-1,Premium Crime
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/309.ts
+
+#EXTINF:-1,Premium Emotion
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/308.ts
+
+#EXTINF:-1,Premium Action
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/138.ts
+
+#EXTINF:-1,Premium Comedy
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/310.ts
+
+#EXTINF:-1,Premium Disney Channel
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/302.ts
+
+#EXTINF:-1,Premium Discovery World
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/140.ts
+
+#EXTINF:-1,Premium Calcio HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/303.ts
+
+#EXTINF:-1,Premium Calcio 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/305.ts
+
+#EXTINF:-1,Premium Fox Sport
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/304.ts
+
+#EXTINF:-1,Deejay TV
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/363.ts
+
+#EXTINF:-1,For Music
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/364.ts
+
+#EXTINF:-1,SKY TG 24
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/150.ts
+
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/154.ts
+
+#EXTINF:-1,Sky Cinema +24 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/136.ts
+
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/135.ts
+
+#EXTINF:-1,Sky Cinema Hits HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/152.ts
+
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/153.ts
+
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/137.ts
+
+#EXTINF:-1,Sky Fox Crime HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/155.ts
+
+#EXTINF:-1,Sky National Geographic HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/156.ts
+
+#EXTINF:-1,Sky Sport 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/360.ts
+
+#EXTINF:-1,Sky Sport 3
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/116.ts
+
+#EXTINF:-1,Sky Sport 4
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/117.ts
+
+#EXTINF:-1,Sky Sport 5
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/118.ts
+
+#EXTINF:-1,SkyUK: BT Sport 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/356.ts
+
+#EXTINF:-1,SkyUK: BT Sport 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/357.ts
+
+#EXTINF:-1,Bundesliga HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/353.ts
+
+#EXTINF:-1,SkyDE: Sky Sport 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/354.ts
+
+#EXTINF:-1,SkyDE: Sky Sport 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/355.ts
+
+#EXTINF:-1,Fox Sport It
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/312.ts
+
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/289.ts
+
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/286.ts
+
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/288.ts
+
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/287.ts
+
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/290.ts
+
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/291.ts
+
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/292.ts
+
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/293.ts
+
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/294.ts
+
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/295.ts
+
+#EXTINF:-1,Sky Calcio 7 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/296.ts
+
+#EXTINF:-1,Sky Sport F1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/297.ts
+
+#EXTINF:-1,Sky Supertennis HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/298.ts
+
+#EXTINF:-1,PrimaFila 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/350.ts
+
+#EXTINF:-1,PrimaFila 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/332.ts
+
+#EXTINF:-1,PrimaFila 3 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/333.ts
+
+#EXTINF:-1,PrimaFila 4 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/334.ts
+
+#EXTINF:-1,PrimaFila 10
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/340.ts
+
+#EXTINF:-1,PrimaFila 11 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/341.ts
+
+#EXTINF:-1,PrimaFila 12 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/342.ts
+
+#EXTINF:-1,PrimaFila 13 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/343.ts
+
+#EXTINF:-1,PrimaFila 14 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/344.ts
+
+#EXTINF:-1,PrimaFila 15 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/345.ts
+
+#EXTINF:-1,PrimaFila 16 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/346.ts
+
+#EXTINF:-1,PrimaFila 17 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/347.ts
+
+#EXTINF:-1,PrimaFila 18 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/348.ts
+
+#EXTINF:-1,PrimaFila 19 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/349.ts
+
+#EXTINF:-1,Primafila Hot Club 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/331.ts
+
+#EXTINF:-1,PrimaFila Hot Club 5 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/335.ts
+
+#EXTINF:-1,PrimaFila Hot Club 6 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/336.ts
+
+#EXTINF:-1,PrimaFila Hot Club 7 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/337.ts
+
+#EXTINF:-1,PrimaFila Hot Club 8 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/338.ts
+
+#EXTINF:-1,PrimaFila Hot Club 9 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/339.ts
+
+#EXTINF:-1,CineMax 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/351.ts
+
+#EXTINF:-1,CineMax 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/352.ts
+
+#EXTINF:-1,Lig Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/358.ts
+
+#EXTINF:-1,Lig Tv 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/359.ts
+
+#EXTINF:-1,Fox Sport USA
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/311.ts
+
+#EXTINF:-1,Alpha Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/317.ts
+
+#EXTINF:-1,ANeo
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/318.ts
+
+#EXTINF:-1,ANT1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/319.ts
+
+#EXTINF:-1,Mega Gr
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/313.ts
+
+#EXTINF:-1,STAR GR
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/361.ts
+
+#EXTINF:-1,Star Tv
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/362.ts
+
+#EXTINF:-1,Rik Sat
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/315.ts
+
+#EXTINF:-1,Skai Greece
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/316.ts
+
+#EXTINF:-1,Greec Music
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/80.ts
+
+#EXTINF:-1,Extra 3
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/320.ts
+
+#EXTINF:-1,KPHTH TV GR
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/314.ts
+
+#EXTINF:-1,BTSPORT 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/120.ts
+
+#EXTINF:-1,Ote Cinema 1
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/327.ts
+
+#EXTINF:-1,Ote Cinema 2
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/328.ts
+
+#EXTINF:-1,Ote Cinema 3
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/329.ts
+
+#EXTINF:-1,OTESport 1 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/321.ts
+
+#EXTINF:-1,OTESport 2 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/322.ts
+
+#EXTINF:-1,OTESport 3 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/323.ts
+
+#EXTINF:-1,OTESport 4 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/324.ts
+
+#EXTINF:-1,OTESport 5 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/325.ts
+
+#EXTINF:-1,OTESport 6 HD
+http://iptv.hopto.org:9705/live/testiptv1234/testiptv1234/326.ts 
